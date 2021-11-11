@@ -4,7 +4,7 @@ Computer Organization
 Part 1: Simple implementation of Load, Store, and Add instructions.
 -----
 
-##Main block 
+## Main block 
 =====
 
 ```verilog
@@ -41,16 +41,18 @@ endmodule
 
 ```
 
-## CPU block
+## CPU block and MEMORY block
 
-[CPU](https://gist.github.com/98dc5734bdd0512ad65b96f44a33391c.git)
+[CPU.v](https://gist.github.com/98dc5734bdd0512ad65b96f44a33391c.git)
 
+[MEM.v](https://gist.github.com/df626266f31418cec698f0f0a9a65a90.git)
 
+---
 
+#### By GTKwave 
+I't doesn't appear - it need to some work 
 
-
-
-
+[]()
 
 
 
