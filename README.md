@@ -50,7 +50,7 @@ endmodule
 ---
 
 #### By GTKwave 
-![wave image](http://url/to/img.png)
+![wave image](https://github.com/hammamProg/Hammam-Simple-Computer-in-verilog/blob/main/Capture.PNG?raw=true)
 
 []()
 
