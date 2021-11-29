@@ -50,7 +50,7 @@ endmodule
 ---
 
 #### By GTKwave 
-I't doesn't appear - it need to some work 
+![wave image](http://url/to/img.png)
 
 []()
 
